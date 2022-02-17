@@ -4,7 +4,6 @@ Presentation and Notebook for 2022 Internet Archive Computational Use of [Intern
 
 
 
-[Presentation Material]()
+[Presentation Material](presentation/index.html)
 
-[Slides]()
 
